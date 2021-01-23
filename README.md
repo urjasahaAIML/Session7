@@ -32,6 +32,8 @@ scheduler used
 # Regularization:
 Batch Norm, Dropout
 
+# Main Notebook link:
+https://github.com/tapasML/Session7/blob/main/S7.ipynb
 
 
 
