@@ -33,18 +33,18 @@ scheduler used
 Batch Norm, Dropout
 
 # Main Notebook link:
-https://github.com/tapasML/Session7/blob/main/S7.ipynb
+https://github.com/urjasahaAIML/Session7/blob/main/S7.ipynb
 
 modules:
-https://github.com/tapasML/Session7/blob/main/myimageutil.py
+https://github.com/urjasahaAIML/Session7/blob/main/myimageutil.py
 
-https://github.com/tapasML/Session7/blob/main/myloader.py
+https://github.com/urjasahaAIML/Session7/blob/main/myloader.py
 
-https://github.com/tapasML/Session7/blob/main/mymodel.py
+https://github.com/urjasahaAIML/Session7/blob/main/mymodel.py
 
-https://github.com/tapasML/Session7/blob/main/mytrain.py
+https://github.com/urjasahaAIML/Session7/blob/main/mytrain.py
 
-https://github.com/tapasML/Session7/blob/main/mytest.py
+https://github.com/urjasahaAIML/Session7/blob/main/mytest.py
 
 
 
